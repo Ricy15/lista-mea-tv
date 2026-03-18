@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,Kanal D
+#EXTGRP:General
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+#EXTINF:0,Canal D2
+#EXTGRP:General
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+#EXTINF:0,Digi24
+#EXTGRP:General
+https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:0,TVR info
+#EXTGRP:General
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
+#EXTINF:0,Prima tv
+#EXTGRP:General
+https://netstreaming.eu/hd1.m3u8
+#EXTINF:0,ProTV
+#EXTGRP:General
+https://stream.protv.md/live/sursa-1/index.m3u8
+#EXTINF:0,Antena stars
+#EXTGRP:General
+https://hls.rundletv.eu.org/LIVE$AntenaStars/6.m3u8/Level/300720051?end=END&amp;
+#EXTINF:0,TVR 1
+#EXTGRP:General
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
+#EXTINF:0,TVR 2
+#EXTGRP:General
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
+#EXTINF:0,TVR international
+#EXTGRP:General
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
+#EXTINF:0,TVR 3
+#EXTGRP:General
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
+#EXTINF:0,TVR Craiova
+#EXTGRP:General
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
+#EXTINF:0,Tele7ABC
+#EXTGRP:General
+https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:0,happy
+#EXTGRP:General
+https://hls.rundletv.eu.org/LIVE$HappyChannel/6.m3u8/Level/300720051?end=END&amp;
+#EXTINF:0,Bucovina TV
+#EXTGRP:General
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+#EXTINF:0,Antena Monden
+#EXTGRP:General
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:0,Comedy play
+#EXTGRP:General
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:0,MediCOOLTV
+#EXTGRP:General
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+#EXTINF:0,ROTV Valencia
+#EXTGRP:General
+https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
+#EXTINF:0,Muzică Dance
+#EXTGRP:General
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:0,Atomic tv
+#EXTGRP:General
+http://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:0,Tele7muzic
+#EXTGRP:General
+https://live.tele7music.ro/hls/stream/index.m3u8
